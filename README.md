@@ -1,4 +1,4 @@
-# web_scraping_tools
+# Web Scraping Tools
 web scraping tools for different websites with different purposes. 
 
 A collection of web scraping tools for extracting data from various websites:
